@@ -6,7 +6,7 @@ export default function Home() {
       <Head>
         <title>Micro Reddit</title>
       </Head>
-      <h1>Search Any Subreddit</h1>
+      <h1>😄</h1>
     </div>
   );
 }
