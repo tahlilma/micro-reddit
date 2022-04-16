@@ -6,11 +6,19 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-a {
-  color: inherit;
-  text-decoration: none;
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-* {
-  box-sizing: border-box;
+img { 
+  max-width: 100%; 
+  height: auto; 
+}
+
+.date-text {
+  color: rgba(255, 255, 255, 0.45);
 }
